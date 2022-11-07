@@ -1,0 +1,10 @@
+.DS_Store
+.idea/*
+.ipynb_checkpoints/*
+catboost_info/*
+presentation_img/*
+unused/*
+data/raw data/*
+data/test/*
+modules/__pycache__/*
+modules/catboost_info/*
